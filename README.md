@@ -19,8 +19,4 @@ Design a digital banking platform where customers can:
 | Item | Location |
 |------|----------|
 | **Live architecture (diagrams, docs, ADRs)** | [Structurizr on Railway](https://bankinfra-production.up.railway.app/workspace/1) |
-| **PDF export (C4 diagrams)** | Add your PDF file in this folder |
-
-## Source repository
-
-Implementation and DSL: sibling folder [`reto`](../reto).
+| **PDF export (C4 diagrams)** | [BP Internet Banking Solution.pdf](BP%20Internet%20Banking%20Solution.pdf) |
